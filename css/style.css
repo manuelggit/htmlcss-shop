@@ -1,5 +1,24 @@
 
 .container{
+    position: relative;
+  }
+
+.sezioni{
   width: 100%;
+  margin-bottom: 1%;
   position: relative;
   }
+
+.box{
+  display: inline-block;
+  }
+
+.trentapercento{
+  background: green;
+  z-index: 2;
+}
+
+.cinquepercento{
+  background: red;
+  z-index: 2;
+}
