@@ -3,20 +3,29 @@
     position: relative;
   }
 
-.sezioni{
+.sezioneuno{
   width: 100%;
-  margin-bottom: 1%;
   position: relative;
+  }
+
+.sezionedue{
+  width: 100%;
+  position: relative;
+  bottom:0;
   }
 
 .box{
   display: inline-block;
+  position: relative;
   }
 
 .trentapercento{
   background: green;
   z-index: 2;
-}
+  position: absolute;
+  bottom: 90%;
+  right: 0;
+  }
 
 .cinquepercento{
   background: red;
