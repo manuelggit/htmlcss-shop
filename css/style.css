@@ -23,11 +23,19 @@
   background: green;
   z-index: 2;
   position: absolute;
-  bottom: 90%;
+  top 0;
   right: 0;
   }
 
 .cinquepercento{
   background: red;
   z-index: 2;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.img{
+  position: relative;
+  top: 0;
 }
